@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineering Student · Full-Stack Developer · Mobile Developer
+### Software Engineering Student
 
 **I build practical web and mobile applications while continuously strengthening my foundations in software engineering, databases, and application architecture.**
 
@@ -28,7 +28,6 @@ My current development journey includes:
 * 🎨 Building responsive, modern, and user-friendly interfaces
 * 🧠 Strengthening my understanding of software architecture, algorithms, and clean code
 
-> **“O(n) thinker in an O(1) world.”**
 
 ---
 
@@ -75,212 +74,8 @@ My current development journey includes:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
-
-**Experience with:**
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT authentication
-* Role-based authorization
-* CRUD operations
-* Middleware
-* API validation
-* Error handling
-* CORS
-* Relational database integration
-
----
-
-# 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0A84FF?style=flat-square\&logo=flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-### Flutter Experience
-
-* Widget-based UI development
-* State management with Riverpod
-* Firebase Authentication
-* Cloud Firestore
-* Localization
-* Dark mode
-* Notifications
-* Charts and financial dashboards
-* Biometric authentication
-* Responsive layouts
-* Tablet and desktop support
-
----
-
-# ☕ Java Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-
-Currently strengthening my Java development skills through:
-
-* Core Java
-* Object-Oriented Programming
-* Collections and data structures
-* Exception handling
-* File handling
-* AWT
-* Swing
-* Desktop GUI development
-
----
-
-# 🗄️ Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 
-**Database experience:**
-
-* Relational database design
-* SQL queries
-* Primary and foreign keys
-* Relationships
-* Constraints
-* Joins
-* Unique constraints
-* CRUD operations
-* Database normalization concepts
-* MySQL/MariaDB administration with phpMyAdmin
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 StudentHub — Student Management System
-
-A full-stack **Student Management System** designed to manage students, teachers, academic programs, courses, enrollment, attendance, grades, and administrative operations.
-
-### Tech Stack
-
-**Frontend**
-
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* React Router
-
-**Backend**
-
-* Node.js
-* Express.js
-* REST API
-* JWT Authentication
-
-**Database**
-
-* MySQL / MariaDB
-
-### Key Features
-
-* 🔐 Authentication and authorization
-* 👥 Role-based access control
-* 📊 Admin dashboard
-* 🎓 Student management
-* 👨‍🏫 Teacher management
-* 🏢 Department management
-* 📚 Program management
-* 📖 Course management
-* 📝 Enrollment management
-* ✅ Attendance management
-* 📈 Grade management
-* 🔎 Search and record management
-* 🧾 Activity logging
-* 👤 Account approval interface
-* ⚠️ Database relationship and constraint handling
-* 📱 Responsive interface
-
-**Repository:**
-[View StudentHub](https://github.com/fathi-ahmet/student-management-system)
-
----
-
-## 💰 eduPay — Student Expense Wallet
-
-A Flutter-based financial management application designed to help students track income, expenses, categories, and financial activity.
-
-### Tech Stack
-
-* Flutter
-* Dart
-* Riverpod
-* Firebase Authentication
-* Cloud Firestore
-
-### Features
-
-* 💰 Income and expense tracking
-* 📊 Financial charts
-* 🏷️ Expense categories
-* 🌙 Dark mode
-* 🌍 Language selection
-* 🔔 Notifications
-* 🔐 Biometric authentication
-* 📱 Responsive mobile UI
-* 💻 Tablet and desktop support
-
----
-
-## 🌤️ Weather App
-
-A responsive weather application built while strengthening my HTML, CSS, and JavaScript fundamentals.
-
-### Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript
-* Weather API
-* Browser Geolocation API
-
-### Features
-
-* 📍 Location-based weather
-* 🌡️ Celsius / Fahrenheit conversion
-* 📅 Three-day forecast
-* 🌐 API integration
-* 📱 Responsive design
-
-[View Weather App](https://github.com/fathi-ahmet/weather-app)
-
----
-
-# 🧪 Other Projects & Practice
-
-Alongside my main projects, I've built smaller applications and exercises to strengthen my programming fundamentals.
-
-### JavaScript
-
-* 🪨 Rock Paper Scissors
-* 🛒 Shopping Cart
-* 🧮 Calculator
-* 🌤️ Weather App
-* 📋 TaskFlow Kanban
-* LocalStorage-based applications
-* DOM manipulation projects
-* JavaScript fundamentals exercises
-
-### React
-
-* React component exercises
-* State and event handling
-* ReactDOM
-* JSX
-* Babel
-* Day.js integration
-* Interactive UI exercises
-
----
 
 # 🧰 Tools & Development Environment
 
@@ -291,21 +86,7 @@ Alongside my main projects, I've built smaller applications and exercises to str
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square\&logo=xampp\&logoColor=white)
 
-**Tools and workflow:**
-
-* Git
-* GitHub
-* Visual Studio Code
-* npm
-* Vite
-* XAMPP
-* phpMyAdmin
-* Android SDK
-* Figma
-* Chrome DevTools
-
 ---
-
 # 📚 Currently Learning
 
 My current focus is on becoming stronger rather than simply collecting technologies.
@@ -318,21 +99,6 @@ My current focus is on becoming stronger rather than simply collecting technolog
 * Full-stack application architecture
 * REST API design
 * Authentication and authorization
-
-### ☕ Java
-
-* Advanced Java
-* AWT
-* Swing
-* Object-oriented design
-* Desktop application development
-
-### 📱 Flutter
-
-* Advanced state management
-* Firebase integration
-* Responsive application architecture
-* Production-quality UI
 
 ### 🧠 Software Engineering
 
