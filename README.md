@@ -22,7 +22,6 @@ My current development journey includes:
 
 * 🌐 Full-stack web development with **React, TypeScript, Node.js, and Express**
 * 📱 Cross-platform mobile development with **Flutter and Dart**
-* ☕ Java application development, including **AWT and Swing**
 * 🗄️ Relational database design with **MySQL and MariaDB**
 * 🔐 Authentication, authorization, role-based access control, and REST APIs
 * 🎨 Building responsive, modern, and user-friendly interfaces
