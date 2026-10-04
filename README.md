@@ -7,8 +7,8 @@
 **I build practical web and mobile applications while continuously strengthening my foundations in software engineering, databases, and application architecture.**
 
 [![Twitter](https://img.shields.io/badge/X-@fathi_ahmet_-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/fathi_ahmet_)
-[![GitHub](https://img.shields.io/badge/GitHub-fathiahmet-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fathiahmet)
-[![Profile Views](https://komarev.com/ghpvc/?username=fathiahmet\&color=blueviolet\&style=flat-square)](https://github.com/fathiahmet)
+[![GitHub](https://img.shields.io/badge/GitHub-fathi-ahmet-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fathi-ahmet)
+[![Profile Views](https://komarev.com/ghpvc/?username=fathi-ahmet\&color=blueviolet\&style=flat-square)](https://github.com/fathi-ahmet)
 
 </div>
 
