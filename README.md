@@ -56,20 +56,7 @@ My current development journey includes:
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square\&logo=reactrouter\&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square\&logo=babel\&logoColor=black)
 
-**Experience with:**
-
-* React components and state
-* React Router
-* TypeScript
-* Responsive UI development
-* DOM manipulation
-* LocalStorage
-* JSON
-* REST API integration
-* Form handling and validation
-* CSS Flexbox and Grid
-* Modern dashboard interfaces
-
+  
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
