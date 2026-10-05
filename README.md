@@ -99,7 +99,6 @@ My current focus is on becoming stronger rather than simply collecting technolog
 # 🎯 Development Philosophy
 
 I believe good software is more than code that simply works.
-
 I'm interested in building applications that are:
 
 * **Reliable** — predictable behavior and proper error handling
